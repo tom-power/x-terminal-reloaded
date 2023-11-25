@@ -1,9 +1,6 @@
 {
   ".platform-linux atom-workspace": {
-    "ctrl-`": "x-terminal-reloaded:open",
-    "ctrl-~": "x-terminal-reloaded:open",
     "ctrl-shift-t": "x-terminal-reloaded:open",
-    "ctrl-alt-shift-t": "x-terminal-reloaded:open",
     "ctrl-alt-shift-up": "x-terminal-reloaded:open-split-up",
     "ctrl-alt-shift-down": "x-terminal-reloaded:open-split-down",
     "ctrl-alt-shift-left": "x-terminal-reloaded:open-split-left",
@@ -15,10 +12,7 @@
     "ctrl-alt-i": "x-terminal-reloaded:insert-selected-text"
   },
   ".platform-win32 atom-workspace": {
-    "ctrl-`": "x-terminal-reloaded:open",
-    "ctrl-~": "x-terminal-reloaded:open",
     "ctrl-shift-t": "x-terminal-reloaded:open",
-    "ctrl-alt-shift-t": "x-terminal-reloaded:open",
     "ctrl-alt-shift-up": "x-terminal-reloaded:open-split-up",
     "ctrl-alt-shift-down": "x-terminal-reloaded:open-split-down",
     "ctrl-alt-shift-left": "x-terminal-reloaded:open-split-left",
@@ -30,10 +24,7 @@
     "ctrl-alt-i": "x-terminal-reloaded:insert-selected-text"
   },
   ".platform-darwin atom-workspace": {
-    "cmd-`": "x-terminal-reloaded:open",
-    "cmd-~": "x-terminal-reloaded:open",
-    "cmd-t": "x-terminal-reloaded:open",
-    "cmd-alt-shift-t": "x-terminal-reloaded:open",
+    "cmd-shift-t": "x-terminal-reloaded:open",
     "cmd-alt-shift-up": "x-terminal-reloaded:open-split-up",
     "cmd-alt-shift-down": "x-terminal-reloaded:open-split-down",
     "cmd-alt-shift-left": "x-terminal-reloaded:open-split-left",
